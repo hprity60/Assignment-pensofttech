@@ -14,9 +14,9 @@
 
 # Showcases:
 
-| Homw Page                                       | Product Detail                                       | 
+| Home Page                                       | Product Detail                                       | 
 |:---------------------------------------------:| :---------------------------------------------:| 
-| ![image](https://github.com/user-attachments/assets/5b9fdca6-22b9-4e55-ae02-ad5ad2875a9d) | ![Image 2](https://github.com/user-attachments/assets/5b9fdca6-22b9-4e55-ae02-ad5ad2875a9d) |  
+| ![image](https://github.com/user-attachments/assets/32f2213e-b4a0-4953-aed0-08247a9ed085) | ![Image 2](https://github.com/user-attachments/assets/5b9fdca6-22b9-4e55-ae02-ad5ad2875a9d) |  
 
 # Stacks
 
